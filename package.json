@@ -1,5 +1,5 @@
 {
-  "name": "esportfolio",
+  "name": "aliyar-portfolio",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -27,5 +27,9 @@
     "eslint-config-next": "13.4.3",
     "postcss": "^8.4.23",
     "tailwindcss": "^3.3.2"
-  }
+  },
+  "description": "",
+  "main": "next.config.js",
+  "author": "Wahid Aliyar",
+  "license": "ISC"
 }
